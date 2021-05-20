@@ -3,3 +3,6 @@ Hi. Welcome to our Food Project
 
 Fried Rice
 Chicken
+
+
+Thank you!
